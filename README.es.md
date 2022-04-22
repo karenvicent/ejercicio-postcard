@@ -10,7 +10,8 @@ Este proyecto viene con los archivos necesarios para empezar a trabajar, pero ti
 
 a) Abrir este enlace con Gitpod en tu navegador (recomendado): https://gitpod.io#https://github.com/breatheco-de/exercise-postcard
 
-b) Clonar este repositorio localmente en tu computador:
+b) Clonar este repositorio localmente en tu computador: 
+
 ```sh
 $ git clone https://github.com/breatheco-de/exercise-postcard
 ```
@@ -23,7 +24,7 @@ Crea el HTML y CSS necesario para replicar [esta imagen de forma precisa](https:
 
 ![postcard preview](https://github.com/breatheco-de/exercise-postcard/blob/main/.learn/assets/preview.png?raw=true)
 
-Aquí tienes el url del logo de 4Geeks: [http://assets.breatheco.de/apis/img/icon/4geeks.png](http://assets.breatheco.de/apis/img/icon/4geeks.png)
+> ✋ Aquí tienes el url del logo de 4Geeks: [http://assets.breatheco.de/apis/img/icon/4geeks.png](http://assets.breatheco.de/apis/img/icon/4geeks.png)
 
 ## Empieza por dibujar tu estrategia
 
@@ -35,10 +36,11 @@ Hay un video sobre este ejercicio, míralo si estás perdido. Pero no copies tod
 
 ## Fundamentos
 Este ejercicio cubre los siguientes fundamentos:
-1. Estructura básica para cada sitio web HTML5.
-2. La etiqueta *Link* para importar Reglas CSS.
-3. Uso de fuentes de google.
-3. Uso de diferentes selectores disponibles en CSS.
-4. Trabajo con cajas: border, padding y margins.
-5. Overflow.
-6. Uso de un formulario simple.
+
+1. Estructura básica para cada sitio web HTML5.  
+2. La etiqueta *Link* para importar Reglas CSS.  
+3. Uso de fuentes de google.  
+3. Uso de diferentes selectores disponibles en CSS.  
+4. Trabajo con cajas: border, padding y margins.  
+5. Overflow.  
+6. Uso de un formulario simple.  
